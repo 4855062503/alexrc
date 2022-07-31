@@ -1,1 +1,2 @@
-export PATH="$PATH:/Users/alex/development/flutter/bin"
+/usr/bin/setxkbmap -option "caps:swapescape"
+set -o vi
